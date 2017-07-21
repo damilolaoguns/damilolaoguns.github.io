@@ -255,6 +255,7 @@ ul.todo#completed:after {
 }
 .copyright {
     padding-top: 500px;
+  margin-bottom: 30px;
   width: 100%;
   display: block;
   text-align: center;
