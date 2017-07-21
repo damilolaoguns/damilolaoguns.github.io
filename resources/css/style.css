@@ -237,7 +237,7 @@ ul.todo#completed:before {
 }
 
 ul.todo#todo:empty:after {
-  content: 'Nothing to do?';
+  content: 'Please enter a task?';
   margin: 15px 0 0 0;
 }
 
