@@ -237,7 +237,7 @@ ul.todo#completed:before {
 }
 
 ul.todo#todo:empty:after {
-  content: 'You have nothing to-do!';
+  content: 'You have not created tasks, Create Them Now!';
   margin: 15px 0 0 0;
 }
 
