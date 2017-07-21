@@ -237,7 +237,7 @@ ul.todo#completed:before {
 }
 
 ul.todo#todo:empty:after {
-  content: 'Please Enter a Task';
+  content: 'Please Create a Task';
   margin: 15px 0 0 0;
 }
 
